@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Olá, eu sou Charles Ferreira👋
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-ferreira-2244ab26a/)
@@ -7,7 +7,7 @@
 
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesFerreiraO&show_icons=true&theme=tokyonight)
 
-## linguagens de programação que eu uso
+## Linguagens de programação que eu uso
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -19,8 +19,7 @@
 Apaixonado desde criança por tecnologia e programação 
 
 
-# Projetos
+## Projetos
 - https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso
-
 
 
