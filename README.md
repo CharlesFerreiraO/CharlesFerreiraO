@@ -17,7 +17,6 @@
 
 </div><br/>
 
-Apaixonado desde criança por tecnologia e programação 
 
 
 ## Projetos
