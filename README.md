@@ -1,4 +1,4 @@
-## Olá, eu sou Charles Ferreira👋
+## Hi, I'm Charles Ferreira👋
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-ferreira-2244ab26a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/charlesferreira/competitions)
@@ -7,7 +7,7 @@
 
 
 
-## Linguagens de programação que eu uso
+##Programming languages ​​I use
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img align="center" alt="css" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -19,7 +19,7 @@
 
 
 
-## Projetos
+##Projects
 - https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso
 
 
