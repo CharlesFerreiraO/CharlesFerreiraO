@@ -19,8 +19,5 @@
 
 
 
-## Projects
-- https://github.com/CharlesFerreiraO/Projetos-de-estudo-de-caso
-
 
 
